@@ -44,8 +44,8 @@ spring:
     check-process-definitions: true
 
 wechat:
-  mpAppId: wx030edc534006e399
-  mpAppSecret: 31a346130369e6c5565b0e73e921a0a8
-  userInfoUrl: http://oabackmethod.free.idcfengye.com/admin/wechat/userInfo
+  mpAppId:
+  mpAppSecret:
+  userInfoUrl: 
 
 
